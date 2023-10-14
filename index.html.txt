@@ -2,9 +2,9 @@
 <head>
 <title>
 tec
-</title>
+</tec>
 </head>
 <body>
-git push origin maingit push origin maingit push origin main
+<h1>Hero Narendra Babbu</h1>
 </body>
 </html>
